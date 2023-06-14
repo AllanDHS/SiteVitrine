@@ -79,20 +79,16 @@ main {
 
 
 
-h2 {
-  text-align: center;
-  padding-top: 20px;
-  text-transform: capitalize;
-}
+
 
 
 .container {
   width: 30%;
   height: 35%;
-  
+
 }
 
-.produit{
+.produit {
   background-color: #FFF;
   width: 65%;
   border-radius: 20px;
@@ -108,68 +104,29 @@ h2 {
   width: 50%;
   height: 35%;
   border-radius: 30px;
-  
+
 }
 
-.container .desc ul li{
+.container .desc p {
+  text-transform: uppercase;
+}
+
+.container .desc ul li {
   text-transform: uppercase;
   margin-top: 5px;
 }
 
-.contain{
+.contain {
   display: flex;
   justify-content: space-evenly;
   margin-top: 15px;
   flex-wrap: wrap;
 }
 
-.article{
+.article {
   display: flex;
   flex-direction: column;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Footer */
 footer {
@@ -189,3 +146,58 @@ footer {
   font-size: 12px;
   color: #ffffff;
 }
+
+
+@media  screen and (max-width: 390px) {
+
+  .container {
+    width: 100%;
+    height: 35%;
+  
+  }
+  
+  .container img {
+    width: 100%;
+    height: 35%;
+    border-radius: 30px;
+  
+  }
+  
+  .container .desc p {
+    text-transform: uppercase;
+  }
+  
+  .container .desc ul li {
+    text-transform: uppercase;
+    margin-top: 5px;
+  }
+  
+  .contain {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    flex-wrap: wrap;
+  }
+  
+  .article {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 30px;
+    background-color: rgba(0, 68, 255, 0.567);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .mentions {
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+
+
+}
+

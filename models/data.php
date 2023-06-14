@@ -1,6 +1,6 @@
 <?php 
 
-$data =[
+$dataMouse =[
 
     [   
         'image' => '../assets/img/souris/GPROX.png',
