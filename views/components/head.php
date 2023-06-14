@@ -11,7 +11,7 @@
 
 <body>
     <header>
-        <h1>TechPeripherals</h1>
+        <a href="../controllers/controller-home.php"><h1>TechPeripherals</h1></a>
         <P>Le site n°1 pour la vente de
             <br> péripheriques GAMEEEEER
         </P>
