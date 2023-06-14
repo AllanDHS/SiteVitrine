@@ -1,8 +1,8 @@
-<?php 
+<?php
 
-$dataMouse =[
+$dataMouse = [
 
-    [   
+    [
         'image' => '../assets/img/souris/GPROX.png',
         'brand' => 'Logitech',
         'name' => 'G PRO X',
@@ -63,57 +63,60 @@ $dataMouse =[
 
 
 $dataKeyboard = [
-    
-        [
-            'image' => '../assets/img/keyboards/G915TKL.jpeg',
-            'brand' => 'Logitech',
-            'name' => 'G915 TKL',
-            'wireless' => 'oui',
-            'rgb' => 'oui',
-            'price' => '229,99 €',
-        ],
-        [
-            'image' => '../assets/img/keyboards/G915.jpeg',
-            'brand' => 'Logitech',
-            'name' => 'G915',
-            'wireless' => 'oui',
-            'rgb' => 'oui',
-            'price' => '249,99 €',
-        ],
-        [
-            'image' => '../assets/img/keyboards/G815.jpeg',
-            'brand' => 'Logitech',
-            'name' => 'G815',
-            'wireless' => 'non',
-            'rgb' => 'oui',
-            'price' => '199,99 €',
-        ],
-        [
-            'image' => '../assets/img/keyboards/APEX7.jpeg',
-            'brand' => 'Steelseries',
-            'name' => 'Apex 7',
-            'wireless' => 'non',
-            'rgb' => 'oui',
-            'price' => '199,99 €',
-        ],
-        [
-            'image' => '../assets/img/keyboards/APEX7TKL.jpeg',
-            'brand' => 'Steelseries',
-            'name' => 'Apex 7 TKL',
-            'wireless' => 'non',
-            'rgb' => 'oui',
-            'price' => '179,99 €',
-        ],
-        [
-            'image' => '../assets/img/keyboards/Huntsman.jpeg',
-            'brand' => 'Razer',
-            'name' => 'Huntsman',
-            'wireless' => 'non',
-            'rgb' => 'oui',
-            'price' => '149,99 €',
-        ],
-    ];
 
-
-
-?>
+    [
+        'image' => '../assets/img/keyboards/G915TKL.jpeg',
+        'brand' => 'Logitech',
+        'name' => 'G915 TKL',
+        'wireless' => 'oui',
+        'rgb' => 'oui',
+        'switch' => 'GL Tactile',
+        'price' => '229,99 €',
+    ],
+    [
+        'image' => '../assets/img/keyboards/G915.jpg',
+        'brand' => 'Logitech',
+        'name' => 'G915',
+        'wireless' => 'oui',
+        'rgb' => 'oui',
+        'switch' => 'GL Tactile',
+        'price' => '249,99 €',
+    ],
+    [
+        'image' => '../assets/img/keyboards/G815.jpg',
+        'brand' => 'Logitech',
+        'name' => 'G815',
+        'wireless' => 'non',
+        'rgb' => 'oui',
+        'switch' => 'GL Tactile',
+        'price' => '199,99 €',
+    ],
+    [
+        'image' => '../assets/img/keyboards/APEX7.jpg',
+        'brand' => 'Steelseries',
+        'name' => 'Apex 7',
+        'wireless' => 'non',
+        'rgb' => 'oui',
+        'switch' => 'Marron',
+        'price' => '199,99 €',
+        
+    ],
+    [
+        'image' => '../assets/img/keyboards/APEX7TKL.jpg',
+        'brand' => 'Steelseries',
+        'name' => 'Apex 7 TKL',
+        'wireless' => 'non',
+        'rgb' => 'oui',
+        'switch' => 'Marron',
+        'price' => '179,99 €',
+    ],
+    [
+        'image' => '../assets/img/keyboards/Huntsman.jpg',
+        'brand' => 'Razer',
+        'name' => 'Huntsman',
+        'wireless' => 'non',
+        'rgb' => 'oui',
+        'switch' => 'Optique',
+        'price' => '149,99 €',
+    ],
+];
