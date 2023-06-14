@@ -1,12 +1,14 @@
 <nav>
 <div class="navbar">
+    
     <ul>
-        <li>souris</li>
-        <li>claviers</li>
-        <li>tapis de souris</li>
-        <li>écrans</li>
-        <li>autre</li>
+        <a href="../controllers/controller-mousePage.php"><li>souris</li></a>
+        <a href="#"><li>claviers</li></a>
+        <a href="#"><li>tapis de souris</li></a>
+        <a href="#"><li>écrans</li></a>
+        <a href="#"><li>autres</li></a>
     </ul>
+    <div class="bar"></div>
 </div>
 
 

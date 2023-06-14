@@ -1,8 +1,8 @@
 <footer>
-  <div class="footer-content">
+  <!-- <div class="footer-content">
     <p>Mentions légales</p>
     <p>&copy; DEHORS Allan</p>
-  </div>
+  </div> -->
 </footer>
 <script src="../assets/script/script.js"></script>
 </body>

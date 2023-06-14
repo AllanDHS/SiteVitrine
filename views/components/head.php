@@ -12,7 +12,7 @@
 <body>
     <header>
         <h1>TechPeripherals</h1>
-        <P>Le site n°1 pour la vente des
-            <br> péripheriques de GAMEEEEER
+        <P>Le site n°1 pour la vente de
+            <br> péripheriques GAMEEEEER
         </P>
     </header>
