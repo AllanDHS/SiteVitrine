@@ -1,8 +1,11 @@
 <footer>
-  <!-- <div class="footer-content">
-    <p>Mentions légales</p>
-    <p>&copy; DEHORS Allan</p>
-  </div> -->
+
+  <div class="mentions">Mentions légales</div>
+  <div class="copyright">
+    © 2023 DEHORS Allan. Tous droits réservés.
+  </div>
+
+
 </footer>
 <script src="../assets/script/script.js"></script>
 </body>
