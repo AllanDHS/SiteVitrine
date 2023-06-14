@@ -1,4 +1,8 @@
 <nav>
+    <div class="nav">
+<div class="logo">
+    <h1>TechPeripherals</h1>
+</div>
 <div class="navbar">
     
     <ul>
@@ -9,6 +13,7 @@
         <a href="#"><li>autres</li></a>
     </ul>
     <div class="bar"></div>
+</div>
 </div>
 
 

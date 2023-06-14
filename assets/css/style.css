@@ -40,9 +40,19 @@ header {
 
 /* Navbar */
 
-nav .navbar {
-  height: 5vh;
+.nav{
+  text-align: center;
 }
+
+
+
+.navbar{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  
+}
+
+
 
 nav .navbar ul {
   display: flex;
@@ -57,8 +67,17 @@ nav .navbar ul li {
 
 nav .navbar ul a {
   text-decoration: none;
-  color: #333333;
+  color: aliceblue;
 }
+
+nav .navbar ul a:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: aliceblue;
+  height: 100%;
+  text-transform: capitalize;
+}
+
 
 .bar {
   height: 3px;
@@ -179,7 +198,7 @@ main {
 /* Footer */
 footer {
   margin-top: 30px;
-  background-color: rgba(0, 68, 255, 0.567);
+  background-color: rgb(0, 0, 0);
   padding: 10px;
   text-align: center;
 }
@@ -267,21 +286,6 @@ footer {
   .article {
     display: flex;
     flex-direction: column;
-  }
-
-
-  /* Footer */
-  footer {
-    margin-top: 30px;
-    background-color: rgba(0, 68, 255, 0.567);
-    padding: 10px;
-    text-align: center;
-  }
-  
-  .mentions {
-    font-size: 14px;
-    color: #ffffff;
-    margin-bottom: 5px;
   }
 
 
