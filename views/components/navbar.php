@@ -1,20 +1,19 @@
 <nav>
-    <div class="nav">
-<div class="logo">
-    <h1>TechPeripherals</h1>
-</div>
-<div class="navbar">
-    
     <ul>
-        <a href="../controllers/controller-mousePage.php"><li>souris</li></a>
-        <a href="../controllers/controller-keyboardPage.php"><li>claviers</li></a>
-        <a href="#"><li>tapis de souris</li></a>
-        <a href="../controllers/controller-monitorPage.php"><li>écrans</li></a>
-        <a href="#"><li>autres</li></a>
+        <li><a href="../controllers/controller-mousePage.php">souris</a></li>
+        <li><a href="../controllers/controller-keyboardPage.php">claviers</a></li>
+        <li><a href="../controllers/controller-MonitorPage.php">écrans</a></li>
+        <li><a href="../controllers/controller-HeadsetPage.php">casques</a></li>
+
+        <li class="deroulant"><a href="#">autres<p> ></p></a>
+        <ul class="sous">
+            <li><a href="#">autres</a></li>
+            <li><a href="#">autres</a></li>
+            <li><a href="#">autres</a></li>
+        </ul>
+        </li>
+
     </ul>
-    <div class="bar"></div>
-</div>
-</div>
 
 
 </nav>
