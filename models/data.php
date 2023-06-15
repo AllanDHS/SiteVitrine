@@ -125,7 +125,7 @@ $dataKeyboard = [
 
 $dataMonitor = [
     [
-        'image' => '../assets/img/monitors/PG259QN.jpg',
+        'image' => '../assets/img/monitor/Zowie-XL2746S-1-1.webp',
         'brand' => 'BENQ',
         'name' => 'XL2746S',
         'size' => '27"',
@@ -162,7 +162,7 @@ $dataMonitor = [
         'price' => '499,99 €',
     ],
     [
-        'image' => '../assets/img/monitor/Asus-ROG-Swift-PG329Q-1-1',
+        'image' => '../assets/img/monitor/Asus-ROG-Swift-PG329Q-1-1.webp',
         'brand' => 'Asus',
         'name' => 'PG329Q',
         'size' => '32"',
