@@ -1,5 +1,7 @@
 <?php
 
+$data =[
+
 $dataMouse = [
 
     [
@@ -59,7 +61,7 @@ $dataMouse = [
         'price' => '149,99 €',
 
     ],
-];
+],
 
 
 $dataKeyboard = [
@@ -99,7 +101,7 @@ $dataKeyboard = [
         'rgb' => 'oui',
         'switch' => 'Marron',
         'price' => '199,99 €',
-        
+
     ],
     [
         'image' => '../assets/img/keyboards/APEX7TKL.jpg',
@@ -119,4 +121,66 @@ $dataKeyboard = [
         'switch' => 'Optique',
         'price' => '149,99 €',
     ],
+],
+
+$dataMonitor = [
+    [
+        'image' => '../assets/img/monitors/PG259QN.jpg',
+        'brand' => 'BENQ',
+        'name' => 'XL2746S',
+        'size' => '27"',
+        'resolution' => '1920x1080',
+        'refresh' => '240Hz',
+        'price' => '499,99 €',
+    ],
+    [
+        'image' => '../assets/img/monitor/AOC-CU34G2X-BK-PHOTO-PRODUIT-1-1.webp',
+        'brand' => 'AOC',
+        'name' => 'CU34G2X',
+        'size' => '34"',
+        'resolution' => '3440x1440',
+        'refresh' => '144Hz',
+        'price' => '489,99 €',
+    ],
+    [
+        'image' => '../assets/img/monitor/Asus-ROG-Swift-XG49VQ-1-1.webp',
+        'brand' => 'Asus',
+        'name' => 'XG49VQ',
+        'size' => '49"',
+        'resolution' => '3840x1080',
+        'refresh' => '144Hz',
+        'price' => '999,99 €',
+
+    ],
+    [
+        'image' => '../assets/img/monitor/MSI-MPG-ARTYMIS-323CQR-1.webp',
+        'brand' => 'MSI',
+        'name' => '323CQR',
+        'size' => '31.5"',
+        'resolution' => '2560x1440',
+        'refresh' => '165Hz',
+        'price' => '499,99 €',
+    ],
+    [
+        'image' => '../assets/img/monitor/Asus-ROG-Swift-PG329Q-1-1',
+        'brand' => 'Asus',
+        'name' => 'PG329Q',
+        'size' => '32"',
+        'resolution' => '2560x1440',
+        'refresh' => '175Hz',
+        'price' => '699,99 €',
+    ],
+    [
+        'image' => '../assets/img/monitor/Corsair-XENEON-FLEX-1.webp',
+        'brand' => 'Corsair',
+        'name' => 'XENEON FLEX',
+        'size' => '45"',
+        'resolution' => '3440x1440',
+        'refresh' => '240Hz',
+        'price' => '2399,99 €',
+    ],
+
+
+]
+
 ];

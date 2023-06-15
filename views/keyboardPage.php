@@ -12,7 +12,7 @@
         $i = 1;
 
 
-        foreach ($dataKeyboard as $keyboard) {
+        foreach ($data[1] as $keyboard) {
             if ($i > $limit) {
                 break;
             }
