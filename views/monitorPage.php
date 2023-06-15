@@ -9,15 +9,7 @@
         <?php
 
 
-        $limit = 6;
-
-        $i = 1;
-
-
         foreach ($data[2] as $monitor) {
-            if ($i > $limit) {
-                break;
-            }
 
         ?>
 

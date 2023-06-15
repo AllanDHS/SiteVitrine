@@ -8,15 +8,8 @@
         <?php
 
 
-        $limit = 6;
-
-        $i = 1;
-
-
         foreach ($data[0] as $mouse) {
-            if ($i > $limit) {
-                break;
-            }
+
 
         ?>
 

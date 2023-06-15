@@ -8,15 +8,10 @@
         <?php
 
 
-        $limit = 6;
-        $i = 1;
 
 
         foreach ($data[1] as $keyboard) {
-            if ($i > $limit) {
-                break;
-            }
-
+          
         ?>
 
             <div class="containerKey">
