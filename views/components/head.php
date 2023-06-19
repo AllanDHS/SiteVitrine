@@ -10,9 +10,8 @@
 </head>
 
 <body>
-    <!-- <header>
+    <header>
+        
         <a href="../controllers/controller-home.php"><h1 class="animate__zoomInDown">TechPeripherals</h1></a>
-        <P>Le site n°1 pour la vente de
-            <br> péripheriques GAMEEEEERZZ
-        </P>
-    </header> -->
+        
+    </header>
